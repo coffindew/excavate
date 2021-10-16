@@ -1,0 +1,22 @@
+{
+    "name": "Shkary Sharks | NFT's On Solana",
+    "short_name": "Shkary Sharks",
+    "description": "8,888 uniquely generated Shkary Sharks that have migrated to the cleaner and warmer network of Solana. Drawn by hand and assembled by code, not one Shkary Shark is the same",
+    "start_url": "/",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "/logo192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/logo512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#feac9f",
+    "background_color": "#feac9f",
+    "display": "standalone"
+}
